@@ -1,0 +1,29 @@
+TRIMESTRIEL 
+http://vps428218.ovh.net:8080/api/sqlViews/XXgbUfU07NZ/data.csv?var=start:20201001&var=end:20201231&var=startcumul:20201201
+
+SEMESTRIEL
+http://vps428218.ovh.net:8080/api/sqlViews/jrgulMyu6ts/data.csv?var=start:20191001&var=end:20200331&var=startcumul:20200301
+
+
+
+DataValues
+http://vps428218.ovh.net:8080/api/sqlViews/WC7RhsLiVB1/data.csv?var=start:20200101&var=end:20200331&var=startcumul:20200301
+
+
+
+ANNUEL 2020
+http://vps428218.ovh.net:8080/api/sqlViews/trkJEZOuaYJ/data.csv?var=starttrim:20200701&var=startsem:20200401&var=end:20200930&var=startcumul:20200901
+
+
+USE THIS
+
+http://vps428218.ovh.net:8080/api/sqlViews/TE56uOZ6E4B/data.csv
+
+
+VERY LAST
+
+test_encore
+http://vps428218.ovh.net:8080/api/sqlViews/iotpwwjQCMw/data.csv
+
+Drop SQL VIEW CACHE
+api/maintenance/sqlViewsDrop

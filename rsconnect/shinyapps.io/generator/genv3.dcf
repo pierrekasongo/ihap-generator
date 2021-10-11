@@ -1,0 +1,10 @@
+name: genv3
+title:
+username:
+account: generator
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2162965
+bundleId: 4144669
+url: https://generator.shinyapps.io/genv3/
+when: 1611665029.64635
