@@ -24,6 +24,9 @@ source('global.R')
 #library('rsconnect')
 #deployApp()
 
+#git push -u origin main
+
+
 loginpage <- div(
       style = "margin-left : 30%;margin-top:10%",
       box(width = 5, "",status = "warning",
