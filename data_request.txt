@@ -11,8 +11,8 @@ http://vps428218.ovh.net:8080/api/sqlViews/WC7RhsLiVB1/data.csv?var=start:202001
 
 
 
-ANNUEL 2020
-http://vps428218.ovh.net:8080/api/sqlViews/trkJEZOuaYJ/data.csv?var=starttrim:20200701&var=startsem:20200401&var=end:20200930&var=startcumul:20200901
+ANNUEL 2021
+http://vps428218.ovh.net:8080/api/sqlViews/gpRLFmiw8KK/data.csv?var=starttrim:20210701&var=startsem:20210401&var=end:20210930&var=startcumul:20210901
 
 
 USE THIS
