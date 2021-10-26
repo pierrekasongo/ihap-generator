@@ -4,7 +4,7 @@ convert <- function(){
     master <-read.csv ("data_for_datim.csv")
     Org <- read_csv("convertor/OU sites.csv")
     Mechs<-read.csv ("convertor/Mechanisms.csv")
-    Data_f<-read.csv ("convertor/Data sets, elements and combos paramaterized - Facility .csv")
+    Data_f<-read.csv ("convertor/Data sets, elements and combos paramaterized - Facility.csv")
     Data_c<-read.csv ("convertor/Data sets, elements and combos paramaterized - Community.csv")
     
     
