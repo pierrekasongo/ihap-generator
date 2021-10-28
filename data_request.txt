@@ -17,7 +17,7 @@ http://vps428218.ovh.net:8080/api/sqlViews/gpRLFmiw8KK/data.csv?var=starttrim:20
 
 USE THIS
 
-http://vps428218.ovh.net:8080/api/sqlViews/TE56uOZ6E4B/data.csv
+http://vps428218.ovh.net:8080/api/sqlViews/vki26tDF9ma/data.csv
 
 
 VERY LAST
